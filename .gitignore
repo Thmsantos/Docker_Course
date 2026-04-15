@@ -1,1 +1,3 @@
 images_and_container/node_modules
+volumes/messages/*
+!volumes/messages/.gitKeep
