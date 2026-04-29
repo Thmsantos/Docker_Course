@@ -1,0 +1,26 @@
+name: "Thiago"
+age: 22
+
+object:
+  version: 2
+  file:
+    name: test.txt
+    size: 2.6
+    description: "my test file"
+    author: ~
+    createdAt: null
+
+isEncrypted: True
+isActive: On
+
+isPublic: False
+isOld: Off
+
+users_who_can_acces: ['bruce wayne', simba]
+
+admin_users:
+  - batman
+  - 'rei julian'
+
+
+blocked_users: {user: bolsonaro, user: sergio moro}
